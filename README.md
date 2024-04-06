@@ -1,4 +1,22 @@
-# Project 3 - AFAC 974 - Symfony
+## <p align="center">Project 3</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=LauraW-code&color=blueviolet&style=for-the-badge"></p>
+
+# AFAC 974
+
+This project was my third collaborative project during the web developper course with Wild Code School.
+
+Its goal was to create an online art gallery for a cultural association, using PHP and the framework Symfony.
+
+I endorsed the role of Product Owner on this project and it was very enriching and forced me to improve my organisation skill.
+
+### :hammer_and_wrench: Technologies and tools: 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
 ## Change Log
 See [CHANGELOG.md](CHANGELOG.md) for more information.
